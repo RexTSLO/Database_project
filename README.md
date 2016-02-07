@@ -22,27 +22,27 @@
 - 執行結果會輸出至Output.txt檔，上頁範例結果如右圖。<br/>
 ![db4](/DBProject_F74996308/pic/db4.png)
 <br/><br/>
-**2.SELECT *-FROM(1)-WHERE(= ' xx ')**<br/>
+**2.SELECT *-FROM(1)-WHERE(= ' xx ')**<br/><br/>
 ![db5](/DBProject_F74996308/pic/db5.png)
 - 上圖範例執行結果如下圖。<br/>
 ![db6](/DBProject_F74996308/pic/db6.png)
 <br/><br/>
-**3.SELECT-FROM(2)-WHERE(JOIN)**<br/>
+**3.SELECT-FROM(2)-WHERE(JOIN)**<br/><br/>
 ![db7](/DBProject_F74996308/pic/db7.png)
 - 上圖範例執行結果如下圖。<br/>
 ![db8](/DBProject_F74996308/pic/db8.png)
 <br/><br/>
-**4.SELECT(COUNT,SUM)-FROM(1)**<br/>
+**4.SELECT(COUNT,SUM)-FROM(1)**<br/><br/>
 ![db9](/DBProject_F74996308/pic/db9.png)
 - 不輸入WHERE也可以。COUNT、SUM等函數功能中，括號間須空1格，上圖範例執行結果如下圖。
 ![db10](/DBProject_F74996308/pic/db10.png)
 <br/><br/>
-**5.SELECT(MAX,MIN,AVG)-FROM(2)-WHERE(JOIN)**<br/>
+**5.SELECT(MAX,MIN,AVG)-FROM(2)-WHERE(JOIN)**<br/><br/>
 ![db11](/DBProject_F74996308/pic/db11.png)
 - 上圖範例執行結果如下圖。<br/>
 ![db12](/DBProject_F74996308/pic/db12.png)
 <br/><br/>
-**6.SELECT *-FROM(1)-WHERE(AND,AND...)**<br/>
+**6.SELECT *-FROM(1)-WHERE(AND,AND...)**<br/><br/>
 ![db13](/DBProject_F74996308/pic/db13.png)
 - 上圖範例執行結果如下圖。<br/>
 ![db14](/DBProject_F74996308/pic/db14.png)
