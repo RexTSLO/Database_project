@@ -1,0 +1,2 @@
+COUNT( PL_NAME )	AVG( PL_AGE )	
+20	29.2	
